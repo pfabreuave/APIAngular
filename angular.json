@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "apijs"
+    }
+  },
+  "defaultProject": "apijs",
+  "cli": {
+    "analytics": false
+  }
 }
